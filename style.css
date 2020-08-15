@@ -1,0 +1,31 @@
+    body {
+        background-image: url(../images/Sea.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .login.box {
+        max-width: 700px;
+        float: none;
+        margin: 150px auto;
+    }
+    
+    .login-left {
+        background: rgba(211, 211, 211, 0.5);
+        border-radius: 7px;
+    }
+    
+    .login-right {
+        background: #B4F8C8;
+        padding: 30px;
+        border-radius: 7px;
+    }
+    
+    .form-control {
+        background: transparent !important;
+    }
+    
+    .header {
+        margin-top: 130px;
+        padding-bottom: 30px;
+    }
